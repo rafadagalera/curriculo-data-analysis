@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from streamlit_extras.app_logo import add_logo
 
 st.set_page_config(page_title="Formação e experiências", layout="wide")
 
